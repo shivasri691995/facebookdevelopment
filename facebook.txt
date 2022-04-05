@@ -3,3 +3,5 @@
 3.upload photos
 4.upload videos
 5.last seen
+6.audio call feature
+7.video call feature
