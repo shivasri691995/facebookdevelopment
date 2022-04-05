@@ -1,0 +1,4 @@
+1.login using gmail and password
+2.update profile photo and cover photo
+3.upload photos
+4.upload videos
